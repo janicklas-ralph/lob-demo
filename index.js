@@ -1,5 +1,5 @@
 /**
- * Lob coding challenge
+ * Lob api demo 
  * Accepts user input and uses the Lob api to create a letter to a state representative
  * Running on node.js lts (v8.9.1)
  * 

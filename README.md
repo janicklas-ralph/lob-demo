@@ -1,4 +1,4 @@
-# Demo using the [Lob](https://lob.com/docs) api
+# [Lob](https://lob.com/docs) api demo
 
 A demo application built on Node.js that prompts the user for input on stdin and creates a letter to a state representative using the Lob api.
 Given the address of the user, we get the corresponding state representative's details from the Google Civic Api
