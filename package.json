@@ -1,0 +1,16 @@
+{
+  "name": "lob-coding-challenge",
+  "version": "1.0.0",
+  "description": "Lob coding challenge - Janicklas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janicklas Ralph James",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chalk": "^2.3.0",
+    "lob": "^5.0.0"
+  }
+}
